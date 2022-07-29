@@ -1,6 +1,8 @@
 archivo numero uno de prueba
 
-este archivo se creo para ser escrito
+este archivo se creo para ser escrito y modificado
 
 
-los cambios que se hagan se veran despues
+los cambios que se hagan se veran ahora
+
+danikolo
